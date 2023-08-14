@@ -82,9 +82,10 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 ![SignInPage](https://github.com/UMANGSINHA1/dabba_wala/assets/121232676/c3ad485c-19dd-47d4-960e-167c07c94e8d)
-![Uploading SignUpPage.png…]()
-![Uploading HomePage.png…]()
-![Uploading PaymentPage.png…]()
+![SignUpPage](https://github.com/UMANGSINHA1/dabba_wala/assets/121232676/db79403a-76eb-4e0b-b1db-70e8328d0c1b)
+![HomePage](https://github.com/UMANGSINHA1/dabba_wala/assets/121232676/41a44d99-9eb6-4537-a1e3-48c146a474b4)
+![PaymentPage](https://github.com/UMANGSINHA1/dabba_wala/assets/121232676/257ca76f-f649-4b09-a406-db38c771e05e)
+
 
 
 ## Feedback
