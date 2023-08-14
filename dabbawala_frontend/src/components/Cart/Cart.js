@@ -31,7 +31,7 @@ const Cart = (props) => {
   const submitOrderHandler = async (userData) => {
     setIsSubmitting(true);
 
-    const BACKEND_BASE_URL = "http://localhost:5000";
+    const BACKEND_BASE_URL = "https://dabba-wala-backend.onrender.com";
     const LoggedInEmail = localStorage.getItem("dabbawala");
     // const URL = `${BACKEND_BASE_URL}/userinformation/${LoggedInEmail.replace(/['"]+/g, '')}`;//to replace double inverted from email-id.
 

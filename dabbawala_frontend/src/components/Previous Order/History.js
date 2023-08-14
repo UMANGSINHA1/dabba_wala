@@ -10,7 +10,7 @@ const History = (props) => {
     //Getting Information from localStorage...
     const [previous, setPrevious] = useState([]);
 
-    const BACKEND_BASE_URL = "http://localhost:5000";
+    const BACKEND_BASE_URL = "https://dabba-wala-backend.onrender.com";
     const LoggedInEmail = localStorage.getItem("dabbawala");
     const URL = `${BACKEND_BASE_URL}/orderuserinformation/${LoggedInEmail.replace(/['"]+/g, '')}`;//to replace double inverted from email-id.
     useEffect(() => {

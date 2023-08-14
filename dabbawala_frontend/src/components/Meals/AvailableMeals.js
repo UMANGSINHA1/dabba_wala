@@ -14,7 +14,7 @@ const AvailableMeals = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [httpError, setHttpError] = useState();
 
-  const BACKEND_BASE_URL = "http://localhost:5000";
+  const BACKEND_BASE_URL = "https://dabba-wala-backend.onrender.com";
 
   useEffect(() => {
     const fetchMeals = async () => {

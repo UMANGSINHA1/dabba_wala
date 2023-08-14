@@ -49,7 +49,7 @@ const LoginForm = () => {
   const postalCodeInputRef = useRef();
   const phoneNumberInputRef = useRef();
 
-  const BACKEND_BASE_URL = "http://localhost:5000";
+  const BACKEND_BASE_URL = "https://dabba-wala-backend.onrender.com";
   const navigate = useNavigate();
   const submitHandler = async (event) => {
     event.preventDefault();

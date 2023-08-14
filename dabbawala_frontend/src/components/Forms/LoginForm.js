@@ -11,7 +11,7 @@ const LoginForm = () => {
   const [enteredPassword, setEnteredPassword] = useState('');
 
 
-  const BACKEND_BASE_URL = "http://localhost:5000";
+  const BACKEND_BASE_URL = "https://dabba-wala-backend.onrender.com";
   const navigate = useNavigate();
 
   const submitHandler = async (event) => {
