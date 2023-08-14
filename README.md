@@ -1,4 +1,3 @@
-
 # dabbawala
 
 "Dabbawala, a food delivery website, stands as a heartfelt tribute, honoring the timeless legacy of Mumbai's beloved Dabbawalas."
@@ -36,7 +35,7 @@ I am Umang Sinha, a Bachelor of Technology student majoring in Electronics and C
 Clone the project
 
 ```bash
-  git clone https://github.com/imvktiwari/dabbawala.git
+  git clone https://github.com/UMANGSINHA1/dabba_wala.git
 ```
 
 Go to the project directory
@@ -82,14 +81,13 @@ To run this project, you will need to add the following environment variables to
 
 
 ## Screenshots
-![login](https://github.com/imvktiwari/dabbawala/assets/101259079/8f188704-5df9-4c20-a163-ac43790d0f12)
-![register](https://github.com/imvktiwari/dabbawala/assets/101259079/a5cb4102-c950-435e-b9ce-2a23047f7a15)
-![home](https://github.com/imvktiwari/dabbawala/assets/101259079/7cab5448-8305-483b-afcc-123b4ac5b1fc)
-![newresponse](https://github.com/imvktiwari/dabbawala/assets/101259079/fd81d2c7-898c-464b-820f-ed0a09836078)
-
+![SignInPage](https://github.com/UMANGSINHA1/dabba_wala/assets/121232676/c3ad485c-19dd-47d4-960e-167c07c94e8d)
+![Uploading SignUpPage.png…]()
+![Uploading HomePage.png…]()
+![Uploading PaymentPage.png…]()
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at 21je1017@iitism.ac.in
+If you have any feedback, please reach out to me at 21je1005@iitism.ac.in
 
